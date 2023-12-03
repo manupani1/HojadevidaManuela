@@ -1,0 +1,344 @@
+
+body {
+    margin:0;
+    padding: 0;
+    background: #f1b8c9;
+
+}
+
+.name {
+    width: 100%;
+    height: 300px;
+    background: #ffcad4;
+    transform: skewY(-6deg);
+}
+
+.name .content {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 30%;
+}
+
+.name .content .p1 {
+    color: black;
+    font-family: 'Mooli', sans-serif;
+    font-weight: bolder;
+    font-size: 52px;
+    transform: skewY(6deg);
+    margin-bottom: 5%;
+}
+
+.name .content .p2 {
+    color: black;
+    font-family: 'Mooli', sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    transform: skewY(6deg);
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.name .content .p3 {
+    color: black;
+    font-family: 'Mooli', sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    transform: skewY(6deg);
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.name .image {
+    position: absolute;
+    top: 25%;
+    right: 5%;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    transform: skewY(6deg);
+    overflow: hidden;
+}
+
+.name .image img {
+    width:180px;
+    height:220px;
+
+}
+
+.Informame {
+    width: 85%;
+    height: auto;
+    background: #ffc4d6;
+    margin: 10% auto;
+    padding: 15px;
+}
+
+.Informame .p01 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    border-bottom: 4px black solid;
+}
+
+
+.Informame .p02 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+
+.Informame .p03 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+}
+
+.Informame .p04 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+    padding: auto;
+}
+
+.Informame .p05 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+}
+.Informame .p06 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+
+.Informame .p07 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+}
+
+.Informame .p08 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+
+.Informame .p09 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+}
+
+.Informame .p10 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+
+.Informame .p11 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+}
+
+.Informame .p12 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+
+.Informame .p13 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+}
+
+.estudio {
+    width: 85%;
+    height: auto;
+    background: #ffc4d6;
+    margin: 10% auto;
+    padding: 15px;
+}
+
+.estudio .p001 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    border-bottom: 4px black solid;
+}
+
+.estudio .p002 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+
+.estudio .p003 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+
+.estudio .p004 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+
+.refe {
+    width: 85%;
+    height: auto;
+    background: #ffc4d6;
+    margin: 10% auto;
+    padding: 15px;
+}
+
+.refe .p0001 {
+        color: black;
+        font-family:'Mooli', sans-serif;
+        font-weight: bolder;
+        font-size: 35px;
+        text-align: center;
+        border-bottom: 4px black solid;
+    }
+
+.refe .p0002 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+
+.ref {
+    width: 85%;
+    height: auto;
+    background: #ffc4d6;
+    margin: 10% auto;
+    padding: 15px;
+}
+
+.ref .p00001 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    border-bottom: 4px black solid;
+}
+
+.ref .p00002 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+
+.ref .p00003 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+
+.caracteristica {
+    width: 85%;
+    height: auto;
+    background: #ffc4d6;
+    margin: 10% auto;
+    padding: 15px;
+}
+
+.caracteristica .p000001 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    border-bottom: 4px black solid;
+}
+
+
+.caracteristica .p000002 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+
+.caracteristica .p000003 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+.caracteristica .p000004 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
+.caracteristica .p000005 {
+    color: black;
+    font-family:'Mooli', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 25px;
+}
